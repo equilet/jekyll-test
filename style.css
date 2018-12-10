@@ -1,0 +1,38 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+    font-size: 0.9em;
+    margin:0 auto;
+    max-width:800px;
+}
+
+header {
+    margin:2em 0;
+}
+
+footer {
+    margin:2em 0;
+    text-align:center;
+}
+
+.content {
+    margin-top:2em;
+}
+
+.content img {
+    max-width: 800px;
+}
+
+.post-list {
+    list-style-type: none;
+    margin:0
+}
+ul.post-list {
+    margin:0;
+    padding:0;
+}
+ul.post-list li{
+    margin-bottom:2em;
+}
+ul.post-list li h4 {
+    margin :0;   
+}
