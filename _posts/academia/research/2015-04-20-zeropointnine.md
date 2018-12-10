@@ -24,18 +24,17 @@ Location: RPI, Troy, New York
 - Johannes Goebel
 - Matt O'Hare
 - Evan-Daniel Rose-González
+- Jeff Lubow
+
+#### Performance site: Bergen Assembly 2016-09-02
+
 - Mats Lindström
 - Daniel Arraya
 - Kari Sundet
 - Espen Sommer Eide
 - Thierry Madiot
 - Julia Al Sarraf
-
-#### Performance site: Bergen Assembly 2016-09-02
-
-[BA 01](http://bergenassembly.no/en/tarek-atoui/)
-[BA 02](http://bergenassembly.no/en/tarek-atoui/within/)
-[BA 03](http://bergenassembly.no/en/tarek-atoui/infinite-ear/)
+- Jeff Lubow
 
 #### Performance site:  Mills 2015-11-05
 
@@ -48,11 +47,11 @@ Location: Mills college Student Union, Oakland, CA
 - Greg Niemeyer
 - Perrin Meyer
 - Apsara Diquinzio
+- Jeff Lubow
 
 Details: BCNM, Wooden interior
 
-[MILLS 01](https://bampfa.org/program/tarek-atoui-matrix-258
-https://bampfa.org/press/tarek-atoui-matrix-258-march-2%E2%80%93november-7-2015)
+[MILLS 01](https://bampfa.org/event/within-2)
 
 #### Performance site: Berkeley 2015-11-07
  
@@ -64,10 +63,9 @@ Location: Hearst Mining building, Berkeley, CA
 - Greg Niemeyer
 - Perrin Meyer
 - Apsara Diquinzio
+- Jeff Lubow
 
 Details: BCNM, Brick/Metal interior
 
 [UCB 01](https://bampfa.org/program/tarek-atoui-matrix-258)
 [UCB 02](https://bampfa.org/press/tarek-atoui-matrix-258-march-2%E2%80%93november-7-2015)
-
-

@@ -15,7 +15,7 @@ Some highlights:
 - Johannes Goebel installed his [SubBassProtoTon](http://empac.rpi.edu/events/2017/fall/subbassprototon), which is an acoustic bass generator room construction in which the occupant of the box can control a low tone with a sliding window in which air passes through and creates vibration
 - 
 
-http://www.council.art/residency/760/within-infinite-ear
+[Council's permalink](http://www.council.art/residency/760/within-infinite-ear)
 
 
 
