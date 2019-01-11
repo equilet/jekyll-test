@@ -29,6 +29,10 @@ img[src*="#right"] {
    padding-top: 1.5em;
    padding-bottom: 1.5em;
 }
+img[src*="#smaller"] {
+    padding-top:3em;
+    padding-bottom:3em;
+}
 
 .content {
     margin-top:2em;

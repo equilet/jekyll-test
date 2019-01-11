@@ -2,7 +2,7 @@
 layout: job
 title: "CNMAT: live electronics"
 date: 2018-05-18
-categories: music improvisation collaboration CNMAT
+categories: sound performance
 ---
 
 CNMAT [presented](http://cnmat.berkeley.edu/events/john-bischoff-w-jeffrey-lubow-cullen-miller) an evening with John Bischoff, myself, and Cullen Miller.

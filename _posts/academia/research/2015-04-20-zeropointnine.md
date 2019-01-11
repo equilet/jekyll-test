@@ -2,7 +2,7 @@
 layout: project
 title: "0.9 (Zero Point Nine)"
 date: 2015-04-20
-categories: academia research LFO deaf-music instrument interface gesture
+categories: research instrument
 ---
 
 # 0.9 instrument for deaf performers
@@ -19,9 +19,9 @@ categories: academia research LFO deaf-music instrument interface gesture
 Location: RPI, Troy, New York
 
 - Pauline Oliveros
+- Johannes Goebel
 - Julia Alsarraf
 - Jad Atoui
-- Johannes Goebel
 - Matt O'Hare
 - Evan-Daniel Rose-González
 - Jeff Lubow
